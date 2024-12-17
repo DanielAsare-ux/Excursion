@@ -1,6 +1,8 @@
 body {
-  font-family: verdana;
   background-color: black;
+  font-family: verdana;
+}
+main {
   text-align: center;
 }
 #first {
@@ -8,7 +10,25 @@ body {
   font-size: 50px;
   color: white;
 }
-
+#second {
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+#third {
+  font-size: 21px;
+  color: gray;
+}
+#fourth {
+  font-size: 42px;
+  color: white;
+  font-weight: 300;
+}
+footer {
+  font-size: 20px;
+  color: gray;
+  text-align: right;
+}
 .cta {
   color: aquamarine;
   font-size: 16px;
